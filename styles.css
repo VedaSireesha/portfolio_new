@@ -81,8 +81,8 @@ body.dark {
 }
 
 .navbar.scrolled {
-    backdrop-filter: blur(12px);
-    background-color: rgb(37, 150, 190);
+    backdrop-filter: blur(11px);
+    background-color: #feedf5;
 }
 
 .navbar-container {
@@ -673,4 +673,5 @@ body.dark .project-description {
     }
 
 }
+
 
